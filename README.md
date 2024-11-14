@@ -1,6 +1,7 @@
-# hello-world
- This repository is for practicing the GitHub Flow......
-Hi there jelly here
-1
-2
-3
+Inline math equations can be created like this: $\omega = d\phi / dt$. 
+Display math can be written as:
+
+\begin{equation}
+I = \int \rho R^{2} dV
+\end{equation}
+
