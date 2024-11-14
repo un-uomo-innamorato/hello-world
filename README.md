@@ -58,3 +58,27 @@ if (a > 3) {
     moveShip(5 * gravity, DOWN);
 }
 ```
+``` cs
+public class cArbolEnario
+{
+    // Atributos
+
+    #region
+
+    protected Object aRaiz;
+    protected cArbolEnario aPrimerHijo;
+    protected cArbolEnario aSgteHermano;
+
+    #endregion
+
+    // Constructores
+
+    #region
+
+    public cArbolEnario()
+    {
+        aRaiz = null;
+        aPrimerHijo = null;
+        aSgteHermano = null;
+    }
+```
