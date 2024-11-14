@@ -20,6 +20,29 @@ An h2 header
 ------------
 
 Here's a numbered list (use `hashEnumerators` option if you want to use hashes):
-#.first item
-#.second item
-#.third item
+
+#. first item
+#. second item
+#. third item
+
+Here is a fragment of C:
+
+    /* Let me iterate ... */
+
+    int i;
+    for(i=0; i<10; i++)
+    {
+      do-something(i)
+    }
+
+Here is some HTML:
+
+    <html>
+      <head>
+        <title>Page Title</title>
+      </head>
+      <body>
+        <h1>This is a Heading</h1>
+          <p>This is a paragraph.</p>
+      </body>
+    </html>
