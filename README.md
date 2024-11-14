@@ -20,9 +20,6 @@ An h2 header
 ------------
 
 Here's a numbered list (use `hashEnumerators` option if you want to use hashes):
-
 #. first item
 #. second item
 #. third item
-
-
